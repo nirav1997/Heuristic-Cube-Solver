@@ -1,0 +1,129 @@
+1.  Puzzle2-0
+1	Terminated after 20 Mins.Following are the variables when terminated0
+	a. States Expanded: 869769
+	b. Maximum Queue: 3408406
+	e. Time Taken: 1222.98
+
+2.  Puzzle2-1
+2	Terminated after 20 Mins.Following are the variables when terminated1
+	a. States Expanded: 393175
+	b. Maximum Queue: 1543489
+	e. Time Taken: 1361.81
+
+3.  Puzzle2-2
+3	Terminated after 20 Mins.Following are the variables when terminated2
+	a. States Expanded: 419151
+	b. Maximum Queue: 1645452
+	e. Time Taken: 1201.91
+
+4.  Puzzle2-3
+	a. States Expanded: 389693
+	b. Maximum Queue: 1529823
+	c. Path Length: 8
+	d. Path:
+		i	increase_Equator
+		ii	increase_0-180
+		iii	decrease_90-270
+		iv	decrease_Equator
+		v	increase_90-270
+		vi	increase_90-270
+		vii	decrease_Equator
+		viii	increase_0-180
+	e. Time Taken: 182.62
+
+5.  Puzzle2-4
+5	Terminated after 20 Mins.Following are the variables when terminated4
+	a. States Expanded: 1004588
+	b. Maximum Queue: 3934964
+	e. Time Taken: 1204.93
+
+6.  Puzzle2-5
+6	Terminated after 20 Mins.Following are the variables when terminated5
+	a. States Expanded: 1012817
+	b. Maximum Queue: 3967183
+	e. Time Taken: 1204.27
+
+7.  Puzzle2-6
+7	Terminated after 20 Mins.Following are the variables when terminated6
+	a. States Expanded: 1005369
+	b. Maximum Queue: 3938035
+	e. Time Taken: 1204.54
+
+8.  Puzzle2-7
+8	Terminated after 20 Mins.Following are the variables when terminated7
+	a. States Expanded: 837481
+	b. Maximum Queue: 3282000
+	e. Time Taken: 1732.59
+
+9.  Puzzle2-8
+9	Terminated after 20 Mins.Following are the variables when terminated8
+	a. States Expanded: 321787
+	b. Maximum Queue: 1263279
+	e. Time Taken: 2313.44
+
+10.  Puzzle2-9
+10	Terminated after 20 Mins.Following are the variables when terminated9
+	a. States Expanded: 361265
+	b. Maximum Queue: 1418200
+	e. Time Taken: 1206.62
+
+11.  Puzzle2-10
+11	Terminated after 20 Mins.Following are the variables when terminated10
+	a. States Expanded: 823059
+	b. Maximum Queue: 3225517
+	e. Time Taken: 5990.56
+
+12.  Puzzle2-11
+12	Terminated after 20 Mins.Following are the variables when terminated11
+	a. States Expanded: 938713
+	b. Maximum Queue: 3677601
+	e. Time Taken: 1859.18
+
+13.  Puzzle2-12
+13	Terminated after 20 Mins.Following are the variables when terminated12
+	a. States Expanded: 899424
+	b. Maximum Queue: 3524423
+	e. Time Taken: 1205.06
+
+14.  Puzzle2-13
+14	Terminated after 20 Mins.Following are the variables when terminated13
+	a. States Expanded: 952217
+	b. Maximum Queue: 3730524
+	e. Time Taken: 1206.13
+
+15.  Puzzle2-14
+15	Terminated after 20 Mins.Following are the variables when terminated14
+	a. States Expanded: 892337
+	b. Maximum Queue: 3496642
+	e. Time Taken: 1205.27
+
+16.  Puzzle2-15
+16	Terminated after 20 Mins.Following are the variables when terminated15
+	a. States Expanded: 488376
+	b. Maximum Queue: 1917248
+	e. Time Taken: 2899.7
+
+17.  Puzzle2-16
+17	Terminated after 20 Mins.Following are the variables when terminated16
+	a. States Expanded: 114138
+	b. Maximum Queue: 448786
+	e. Time Taken: 7362.91
+
+18.  Puzzle2-17
+18	Terminated after 20 Mins.Following are the variables when terminated17
+	a. States Expanded: 942193
+	b. Maximum Queue: 3691264
+	e. Time Taken: 1206.37
+
+19.  Puzzle2-18
+19	Terminated after 20 Mins.Following are the variables when terminated18
+	a. States Expanded: 922921
+	b. Maximum Queue: 3616231
+	e. Time Taken: 1211.23
+
+20.  Puzzle2-19
+20	Terminated after 20 Mins.Following are the variables when terminated19
+	a. States Expanded: 876597
+	b. Maximum Queue: 3435157
+	e. Time Taken: 1214.0
+

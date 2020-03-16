@@ -1,0 +1,10 @@
+	a.	States Expanded: 2
+	b.	Maximum Queue: 10
+	c.	Path Length:: 2
+	d.	Path:
+0.0 Seconds Time Taken
+
+----Path----
+		i	increase_90-270
+		ii	decrease_Equator
+	e.	Time Taken:: 0.0

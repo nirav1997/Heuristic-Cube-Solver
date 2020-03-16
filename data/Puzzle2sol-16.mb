@@ -1,0 +1,14 @@
+590 States Expanded
+2361 Maximum Queue
+8 Path Length
+0.27 Seconds Time Taken
+
+----Path----
+increase_0-180
+decrease_90-270
+increase_Equator
+decrease_0-180
+decrease_0-180
+increase_Equator
+decrease_0-180
+increase_90-270

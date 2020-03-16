@@ -1,0 +1,21 @@
+2985832 States Expanded
+11594420 Maximum Queue
+16 Path Length
+
+----Path----
+increase_Equator
+decrease_90-270
+increase_0-180
+increase_90-270
+increase_Equator
+decrease_90-270
+increase_0-180
+decrease_90-270
+decrease_90-270
+increase_0-180
+increase_90-270
+increase_Equator
+increase_90-270
+increase_90-270
+increase_0-180
+decrease_Equator

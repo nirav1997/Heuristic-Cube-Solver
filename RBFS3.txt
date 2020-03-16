@@ -1,0 +1,91 @@
+15.  Puzzle2-14
+	a. States Expanded: 52784
+	b. Maximum Queue: 316704
+	c. Path Length: 14
+	d. Path:
+		i	decrease_90-270
+		ii	increase_0-180
+		iii	increase_0-180
+		iv	decrease_Equator
+		v	increase_0-180
+		vi	increase_0-180
+		vii	decrease_90-270
+		viii	decrease_90-270
+		ix	decrease_Equator
+		x	decrease_0-180
+		xi	decrease_0-180
+		xii	decrease_0-180
+		xiii	increase_0-180
+		xiv	decrease_90-270
+	e. Time Taken: 26.66
+
+17.  Puzzle2-16
+	a. States Expanded: 2613
+	b. Maximum Queue: 15678
+	c. Path Length: 10
+	d. Path:
+		i	increase_0-180
+		ii	decrease_90-270
+		iii	increase_Equator
+		iv	decrease_0-180
+		v	decrease_0-180
+		vi	increase_Equator
+		vii	decrease_0-180
+		viii	decrease_0-180
+		ix	increase_0-180
+		x	increase_90-270
+	e. Time Taken: 1.41
+
+19.  Puzzle2-18
+	a. States Expanded: 50272
+	b. Maximum Queue: 301632
+	c. Path Length: 12
+	d. Path:
+		i	increase_Equator
+		ii	increase_90-270
+		iii	increase_Equator
+		iv	increase_Equator
+		v	increase_Equator
+		vi	decrease_90-270
+		vii	decrease_90-270
+		viii	increase_0-180
+		ix	decrease_Equator
+		x	increase_90-270
+		xi	increase_90-270
+		xii	decrease_0-180
+	e. Time Taken: 32.43
+
+17.  Puzzle2-16
+	a. States Expanded: 2613
+	b. Maximum Queue: 15678
+	c. Path Length: 10
+	d. Path:
+		i	increase_0-180
+		ii	decrease_90-270
+		iii	increase_Equator
+		iv	decrease_0-180
+		v	decrease_0-180
+		vi	increase_Equator
+		vii	decrease_0-180
+		viii	decrease_0-180
+		ix	increase_0-180
+		x	increase_90-270
+	e. Time Taken: 1.23
+
+16.  Puzzle2-15
+	a. States Expanded: 950247
+	b. Maximum Queue: 5701482
+	c. Path Length: 10
+	d. Path:
+		i	increase_0-180
+		ii	decrease_Equator
+		iii	decrease_0-180
+		iv	increase_90-270
+		v	decrease_0-180
+		vi	increase_Equator
+		vii	increase_0-180
+		viii	decrease_90-270
+		ix	decrease_Equator
+		x	decrease_90-270
+	e. Time Taken: 394.25
+
